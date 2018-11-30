@@ -27,7 +27,13 @@ have an interest in running or understanding these programs, please [contact
 me](mailto:mail@joachim-breitner.de).
 
 The details of these calculations did not make it into the full paper, so I
-published an [“inoffical appendix” on ePrint](https://eprint.iacr.org/TODO).
+published an [“inoffical appendix”] (publication on ePrint imminent).
+
+[“inoffical appendix”]: https://www.joachim-breitner.de/publications/more-on-sliding-right.pdf
+
+It turned out that the direct calculation of the Renyi entropy was novel, and a
+dedicated paper by Maciej Skorski and me, [*Analytic Formulas for Renyi Entropy
+of Hidden Markov Models*](https://arxiv.org/abs/1709.09699), elaborates on that
 
 It turned out that the direct calculation of the Renyi entropy was novel, and a
 dedicated paper by Maciej Skorski and me, [*Analytic Formulas for Renyi Entropy
